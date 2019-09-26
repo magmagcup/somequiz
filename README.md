@@ -16,7 +16,7 @@ Store data as list in list.
 Oop
 
 It have much *much* more approach than what I have mention above so I encourage you to try thinking for other approach
-that I didn't not mention.
+that I did not mention.
 
 # Tip of the day
 If your input have fix value use it, like for example in this question
