@@ -64,7 +64,7 @@ Welcome to program((A)dd/(Q)uit/(P)rint):
 Creating second page menu inside choice "P" which have the following function.
  
 * Printing individual student from id number
-* Printing all student inside
+* Printing all student inside data
 ~~~
 Welcome to program((A)dd/(Q)uit/(P)rint): P
 (I)d / (A)ll: I
@@ -96,3 +96,5 @@ ID: 1234
 Name: mag
 
 Grade: 1.23
+
+    
