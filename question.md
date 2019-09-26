@@ -1,8 +1,10 @@
 ## 1. First application feature
 
-Create a program that store data of all student. 
+Creating a program that store data for all student. 
 
-(1. last 4 digit number of student id, 2. First name, 3. grade)
+* 1. last 4 digit number of student id 
+* 2. First name
+* 3. grade
 
 ~~~
 Welcome to program((A)dd/(Q)uit): A
@@ -42,7 +44,7 @@ Grade: 3.00
 
 ## 3. Check input
 #### Condition:
-*   Input for ID isn't 4 digit int (9999 >= x >= 0000),
+*   Input for an ID isn't 4 digit int (9999 >= x >= 0000),
     get new input, Repeat until user put a correct information.
 *   Input for grade isn't 2 decimal float (4.00 >= x >= 0.00),
     get new input, Repeat until user put a correct information.
