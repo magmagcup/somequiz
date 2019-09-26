@@ -1,4 +1,4 @@
-This is an example for my question.md on github :https://github.com/magmagcup/somequiz/blob/master/teach.py
+This is an example for my question.md on github :https://github.com/magmagcup/somequiz/blob/master
 
 ## Approach
 
