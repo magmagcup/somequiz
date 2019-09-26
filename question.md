@@ -2,9 +2,9 @@
 
 Creating a program that store data for all student. 
 
-* 1. last 4 digit number of student id 
-* 2. First name
-* 3. grade
+* last 4 digit number of student id 
+* First name
+* grade
 
 ~~~
 Welcome to program((A)dd/(Q)uit): A
@@ -60,9 +60,9 @@ Welcome to program((A)dd/(Q)uit/(P)rint):
 ~~~
 
 ## 4. Print individual student
-Create second page menu inside choice "P" which have the following function.
-* Print individual student from id number
-* Print all student inside
+Creating second page menu inside choice "P" which have the following function.
+: Print individual student from id number
+: Print all student inside
 ~~~
 Welcome to program((A)dd/(Q)uit/(P)rint): P
 (I)d / (A)ll: I
