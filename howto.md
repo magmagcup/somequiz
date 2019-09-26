@@ -19,7 +19,7 @@ It have much *much* more approach than what I have mention above so I encourage 
 that I didn't not mention.
 
 # Tip of the day
-If your input have fix value use it, like for example in this question
+If your input have fix value, use it ,like for example in this question
 We know that first input MUST have length = 4
 
 So we could use that value as one of the condition to check if the input is correct or not
