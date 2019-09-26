@@ -41,4 +41,5 @@ while answer != "Q":
     if answer == "A":
         data.append(get_input())
     elif answer == "P":
-        print_data(data)
+        for i in data:
+            print_data(i)
