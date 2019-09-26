@@ -42,12 +42,12 @@ Name: Payaya
 
 Grade: 3.00
 
-## 3. Check input
+## 3. Checking input
 #### Condition:
 *   Input for an ID isn't 4 digit int (9999 >= x >= 0000),
-    get new input, Repeat until user put a correct information.
+    get new input. Repeat until user put a correct information.
 *   Input for a grade isn't 2 decimal float (4.00 >= x >= 0.00),
-    get new input, Repeat until user put a correct information.
+    get new input. Repeat until user put a correct information.
 ~~~
 Welcome to program((A)dd/(Q)uit/(P)rint): A
 Last 4 digit: abcs
