@@ -61,8 +61,8 @@ Welcome to program((A)dd/(Q)uit/(P)rint):
 
 ## 4. Print individual student
 Creating second page menu inside choice "P" which have the following function.
-: Print individual student from id number
-: Print all student inside
+: Printing individual student from id number
+: Printing all student inside
 ~~~
 Welcome to program((A)dd/(Q)uit/(P)rint): P
 (I)d / (A)ll: I
