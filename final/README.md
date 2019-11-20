@@ -32,7 +32,46 @@ def find_food_quantity_from_name(self, food_name: str) -> int:
     """
 ~~~
 
+## 3rd task
+Add menu interface for easier testing //Ps. it's not the best way to test a program.
+~~~
+Welcome to storage!
 
+What you want to do? (C: Check food quantity from name): C
+Please enter food name: "Potato"
+We have ... Potato in our stock.
+~~~
+
+## 4th task
+More object! Create **new** class for each place in our data in this case we need 4 class
+
+1. Newbar
+2. SevenEleven
+3. Scibar
+4. IUPbar
+
+Use each place above to store our food data instead of a single **Store** class, data is easier to manage.
+
+```
+//This is a template not an actually code don't copy it!
+class Store:
+    place: list/dict
+class Place:
+    food: list
+    quantity : dict //Ex. {"Chicken": 300}   
+```
+
+## 5th task
+Create new menu! and make a **find food quantity_from_name** function work with our new structure!
+```
+Welcome to storage!
+
+What you want to do? (C: Check food quantity from name): C
+Place you want to find the food quantity 
+(N:Newbar,S:SevenEleven,Sc:Scibar,I:IUPbar or Sk to skip): Sk
+Please enter food name or A for all food: A
+We have ... food.
+```
 
 
 # Optional
