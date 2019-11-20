@@ -38,8 +38,8 @@ Add menu interface for easier testing //Ps. it's not the best way to test a prog
 Welcome to storage!
 
 What you want to do? (C: Check food quantity from name): C
-Please enter food name: "Potato"
-We have ... Potato in our stock.
+Please enter food name: PotatoChip
+We have ... PotatoChip in our stock.
 ~~~
 
 ## 4th task
@@ -75,4 +75,20 @@ We have ... food.
 
 
 # Optional
-Write what you brought in **bill.txt** and calculate the price at the end of the food list.
+Create **buy** function, write what you brought in **bill.txt** and calculate the price at the end of the file.
+
+```
+Welcome to storage!
+
+What you want to do? (C: Check food quantity from name),(B: Buy food): B
+Place you want to buy the food ((N:Newbar,S:SevenEleven,Sc:Scibar,I:IUPbar): N
+Please enter food name: ChickenFried
+You brought ChickenFried from Newbar.
+```
+
+bill.txt
+```
+ChickenFried 50 Newbar
+
+Total price 50
+```
